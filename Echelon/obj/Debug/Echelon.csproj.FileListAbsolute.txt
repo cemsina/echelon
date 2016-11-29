@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Echelon\Echelon\bin\Debug\Echelon.exe.config
+C:\Users\user\Documents\Echelon\Echelon\bin\Debug\Echelon.exe
+C:\Users\user\Documents\Echelon\Echelon\bin\Debug\Echelon.pdb
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.Properties.Resources.resources
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.exe
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.pdb
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.UI_Matrix.resources
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.UI_RNumber.resources
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.CreateMatrixForm.resources
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.MainForm.resources
+C:\Users\user\Documents\Echelon\Echelon\obj\Debug\Echelon.UI_Move.resources
